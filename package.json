@@ -12,8 +12,8 @@
     "last 2 versions"
   ],
   "devDependencies": {
-    "@snowpack/plugin-svelte": "^3.5.2",
-    "snowpack": "^3.0.11",
+    "@snowpack/plugin-svelte": "3.3.0",
+    "snowpack": "^2",
     "svelte": "^3.31.2"
   },
   "dependencies": {
